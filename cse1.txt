@@ -1,0 +1,160 @@
+An introduction to Computer Science and its History
+Muhammed Nyeem Hassan1
+Shah Mohammad Omer Faruqe Jubaer2
+
+Abstract: The field of computer science is one of the most rapidly growing and well-paying in the world. However, the number of teachers and students interested in Computer Science is dwindling. This is mostly determined by how well students are exposed to technology and resources, as well as whether or not they are encouraged to pursue careers in computer science. Students who are not interested in computer science benefit from computer science education as well. So the primary aim of this research paper is to give access to general students to know about Computer Science. The rise of the digital world necessitates the development of logical thinking and problem-solving skills, both of which are included in the computer science curriculum. Students, regardless of their field of study, must be enthusiastic about using computers, whether it's to create a file, write a paper, or conduct research on a certain topic. Not to mention that job vacancies for computer science graduates are increasing in every industry and state; employment openings are expected to expand at twice the rate of any other job. We must ensure that today's pupils have access to the same paths that our predecessors did. These are major findings from our research that we may use to help advance computer science teaching.
+
+
+KEYWORDS: COMPUTER SCIENCE, THE CONCEPT AND APPROACH OF CS, THE PRIMARY HISTORY OF THE COMPUTER SCIENCE, CENTRALIZE TO GENERALIZE, THE IDEA OF ACADEMIC CS.
+
+Introduction: Due to the tremendous growth of job prospects in the industry, computer science has become a key tool to not only alter the world but also to help pull children from low-income families and communities out of poverty. It is vital to introduce children, but in the case of computer science, the focus has been primarily on white students. Females, African-Americans, and Hispanic students have received less attention. In reality, black students are more likely than white students to be excluded from computer science classes. Due to a shortage of resources and teachers teaching computer science, an education gap exists between males and female students. We must begin early, according to this research article. The foundation for computer science thinking and learning is laid by mathematical concepts, skills, and algorithms.3 It's critical to provide the opportunity for middle school kids to learn computer science vocabulary, basic
+
+1 IT Expert and CEO at the Brain Craft, Dhaka Bangladesh. E-mail: nyeem@braincraftapps.com
+2 Research Manager at the Shah Legal Aid and Research Centre. E-mail: smofjubaer@gmail.com
+3 Gal-Ezer, J., Beeri, C., Harel, D., & Yehudai, A. (1995). A high school program in computer science. Computer, 28(10), 73-80.	1
+
+concepts, and principles.4 Students have more opportunities to detect, enquire about, and enhance their digital literacy the sooner they begin learning about computer science. We can accomplish this by providing early institutional institute teachers with professional development and continuing content assistance so that they are prepared to teach core skills and concepts. It is critical to have strong pathways. Students use, access, and engage technology in a variety of ways that are critical to their daily lives. They live in a digital world, but do they understand how and why it works? Students gain from seeing the links between what they're studying and what they're seeing in the real world.
+
+The concept of Computer Science: The study of computer hardware and software design is known as computer science. It includes both the study of theoretical algorithms and the issues of putting them into practice using computer hardware and software.5 Artificial intelligence, software engineering, programming, and computer graphics are only a few of the fields of computer science. As computers become increasingly intertwined into our daily lives and technology advances, the necessity for computer science as a discipline has expanded.6 The study of computers and computational systems is known as computer science. Computer scientists, unlike electrical and computer engineers, work primarily with software and software systems, including their theory, design, development, and implementation. The study of computers and computing, encompassing their theoretical and algorithmic foundations, hardware and software, and applications for processing data, is known as computer science.7 The study of algorithms and data structures, computer and network design, modeling data and information processes, and artificial intelligence are all part of computer science. Because computer science leans on mathematics and engineering for some of its underpinnings, it combines ideas from queueing theory, probability and statistics, and electrical circuit design.8
+
+Computer systems and networks, security, database systems, human-computer interaction, vision and graphics, numerical analysis, programming languages, software engineering, bioinformatics, and computing theory are all major fields of study in Computer Science. During the conceptualization, creation, measurement, and development of new algorithms, information structures, and computer architectures, computer science makes extensive use of hypothesis testing and experimentation.9 Computer science is one of five distinct but related fields that includes
+
+
+4 Hassan, Muhammed & Jubaer, Shah. (2021). THE ARTIFICIAL INTELLIGENCE FOR THE COMMON LEARNERS: A COMPARATIVE LEARNING APPROACH. 10.17605/OSF.IO/VGT24.
+5 Denning, P. J. (2005). Is computer science science?. Communications of the ACM, 48(4), 27-31.
+6 Graham, R. L., Knuth, D. E., Patashnik, O., & Liu, S. (1989). Concrete mathematics: a foundation for computer science. Computers in Physics, 3(5), 106-107.
+7 Barr, V., & Stephenson, C. (2011). Bringing computational thinking to K-12: what is Involved
+and what is the role of the computer science education community?. Acm Inroads, 2(1), 48-54.		
+8 Brookshear, J. G. (1991). Computer science: an overview. Benjamin-Cummings Publishing Co.,	2
+Inc..
+9 Dodig-Crnkovic, G. (2002, April). Scientific methods in computer science. In Proceedings of the Conference for the Promotion of Research in IT at New Universities and at University Colleges in Sweden, Skövde, Suecia (pp. 126-130).
+
+computer engineering, computer science, information systems, information technology, and software engineering.10
+Scientific Explanation and construction: This research article can be a gateway to the basic to skilled about the Computer Science where A course in java programming. Both of these courses provide a wide spectrum of CS education for students to access and develop a strong foundation for success in CS post-high school. Advanced coursework can build students' confidence in their computer science skills and give them a leg up in continuing their studies and making a career in the field.
+We need to provide extra support for underserved students and young women. If you went into a computer science classroom today, the demographics likely would not look much different. Although young women are making gains, only about 27% of AP CS test-takers in 2017 were female. We need to encourage young women to take these classes. If they are discouraged from participating, we will be missing out on so many bright female minds in the STEM (science, technology, engineering, and mathematics) workforce.11 The same is true for underserved students. Low-income, Hispanic, and other students are substantially less likely than their white peers to attend classes. Prerequisites, teacher referral requirements, and a lack of counseling to assist marginalized kids to take these courses are all examples of structural hurdles to AP (anonymous platform). Supporting administration and student counselors in their efforts to remove these roadblocks to advanced computer science education will benefit everyone. We can and must open the doors to a new generation of diverse STEM workers.12
+
+It will make a difference if new computer science literacy standards are implemented. Digital literacy is a societal requirement: knowing, comprehending, and communicating how and why our electronic instruments work. Students already have technological literacy, but only a handful genuinely understand how technology was built and what it takes to invent, understand, and develop new platforms and tools, as well as the effects they will have on society. We need to align what we rely on in life with what we educate in institutions. Our computer Science literacy will become second nature if students adopt computer science literacy standards in the same way that we have in other areas like English. They will be better equipped to comprehend the digital environment once they are competent in computer science language. Statewide computer science literacy requirements, if defined and executed appropriately, can and will make a difference in our schools, with implications for higher education and employment.
+
+Computer science's beginnings: Before 1900, for thousands of years, people have relied on mechanical gadgets to help them calculate. The abacus, for example, was most likely invented around 3000 B.C.E. in Babylonia (modern-day Iraq). The ancient Greeks created some of the most
+
+10 Lagesen, V. A. (2008). A cyberfeminist utopia? Perceptions of gender and computer science among Malaysian women computer science students and faculty. Science, technology, & human values, 33(1), 5-27.
+11 Futschek, G. (2006, November). Algorithmic thinking: the key for understanding computer science. In International conference on informatics in secondary schools-evolution and perspectives (pp. 159-168). Springer, Berlin, Heidelberg.
+12 Knuth, D. E. (1974). Computer science and its relation to mathematics. The American	3
+Mathematical Monthly, 81(4), 323-343.
+
+advanced analog computers ever devised. A Greek shipwreck was discovered off the coast of Antikythera in 1901.13 A salt-encrusted apparatus (now known as the Antikythera mechanism) was found within, consisting of rusty metal gears and pointers. John Napier (1550-1617), the Scottish inventor of logarithms, invented Napier's rods (sometimes called "Napier's bones") c. 1610 to simplify the task of multiplication.14
+Blaise Pascal (1623-1662), a French mathematician and philosopher, invented the mechanical adding machine in 1641. Gottfried Wilhelm Leibniz did similar work (1646-1716). For calculations, Leibniz supported the use of the binary system.15 Wilhelm Schickard (1592-1635), a graduate of the University of Tübingen (Germany), built a mechanism similar to Pascal's and Leibniz's in 1623-4, according to new research. Two letters to Johannes Kepler offer a basic description of the gadget. Unfortunately, one of the machines was destroyed in a fire, and Schickard died of the bubonic plague in 1635, during the Thirty Years' War.
+
+Joseph-Marie Jacquard (1752-1834) devised a loom that could weave intricate patterns based on holes punched into punched cards. Charles Babbage (1791-1871) experimented with two mechanical devices: the Difference Engine and the considerably more ambitious Analytical Engine (a forerunner to the contemporary digital computer), but neither was successful. (Babbage was a bit of an oddball, described as an "irascible genius" by one biographer, and was most likely the inspiration for Daniel Doyce in Charles Dickens's novel Little Dorrit.) Babbage invented the science of dendrochronology (tree-ring dating) but never explored his concept.
+
+Babbage spent most of his final years fighting against the persecution of street musicians (organ- grinders.) The Difference Engine is on display at the Science Museum in London, England, today. Ada Augusta Byron, Countess of Lovelace (1815-1852), one of Babbage's companions, is frequently referred to as the "first programmer" because of a report she produced on Babbage's computer. (She is commemorated by the programming language Ada.)16
+In 1869, British economist and logician William Stanley Jevons (1835-1882) created a machine to answer logic problems. It was the "first such machine with sufficient power to solve a complex problem faster than it could be solved without the machine's assistance." (Gardner) It is now on display at the Oxford Museum of Science and Technology. For use in a machine he created to help tabulate the 1890 census, Herman Hollerith (1860-1929) devised the contemporary punched card.
+
+The Rise of Mathematics, 1900-1939: The work on the calculating machines went on. There were a few special-purpose calculating machines constructed. For example, in 1919, E. O. Carissan (1880-1925), a French infantry officer, devised and built a fantastic mechanical system for
+
+
+13 Javaid, N., Qureshi, T. N., Khan, A. H., Iqbal, A., Akhtar, E., & Ishfaq, M. (2013). EDDEEC: Enhanced developed distributed energy-efficient clustering for heterogeneous wireless sensor networks. Procedia computer science, 19, 914-919.
+14 Aho, A. V., & Ullman, J. D. (1992). Foundations of computer science. Computer Science Press, Inc..
+15 Hazzan, O., Lapidot, T., & Ragonis, N. (2014). Guide to teaching computer science. Springer.
+16 Ben-Ari, M. (2012). Mathematical logic for computer science. Springer Science & Business	4
+Media.
+
+factoring integers and proving primarily.17 Leonardo Torres y Quevedo (1852-1936), a Spaniard, created several electromechanical calculating devices, including one that played simple chess endgames.18
+David Hilbert (1862-1943), a German mathematician, spoke at the International Congress of Mathematicians in 1928.19 Three questions were posed to him: (1) Is mathematics comprehensive, in the sense that every mathematical assertion can be proved or refuted? (2) Is mathematics consistent, in the sense that legitimate methods cannot prove claims like "0 = 1"? (3) Is mathematics decidable, in the sense that there is a mechanical procedure that can be applied to any mathematical assertion and will finally indicate whether it is true or false (at least in theory)? The Decisions problem was the name given to the last question.20
+
+Kurt Gödel (1906-1978) responded to two of Hilbert's questions in 1931. Every sufficiently powerful formal system, he demonstrated, is either inconsistent or incomplete. Furthermore, the consistency of an axiom system cannot be shown inside itself. The third question was left unanswered, with 'provable' replacing 'true.' Alan Turing (1912-1954) solved Hilbert's Decisions problem in 1936 by creating a formal model of a computer,21 the Turing machine, and demonstrating that there were problems that such a machine could not handle. The so-called "halting problem" is one such issue: does a Pascal program halt on all inputs?
+
+The 1940s: The electronic digital computer is born during WWII: The creation of the general- purpose electronic digital computer was sparked by the computations required for ballistics during World War II. Howard H. Aiken (1900-1973), a Harvard professor, helped IBM build the Mark I electromechanical computer in 1944. Computational endeavors arose from military code-breaking. At Bletchley Park in England, Alan Turing was involved in breaking the code behind the German Enigma machine. The Colossus was a computational device created by the British to aid in code- breaking.
+
+John Vincent Atanasoff (1904-1995) and Clifford Berry devised and built an electronic computer for solving systems of linear equations at Iowa State University in 1939, but it never operated properly. Atanasoff discussed his concept with John William Mauchly (1907-1980), who later invented and built the ENIAC (the first programmable, electronic, the general-purpose digital computer), the general-purpose electronic computer originally intended for artillery calculations,22 with J. Presper Eckert, Jr. (1919-1995). It's unclear what ideas Mauchly obtained from Atanasoff,
+
+17 Walters, R. F. C. (1991). Categories and computer science. Cambridge University Press.
+18 Comer, D. (1983). The computer science research network CSNET: A history and status report. Communications of the ACM, 26(10), 747-753.
+19 Gurevich, Y. (1985). Logic and the challenge of computer science. University of Michigan, Computing Research Laboratory.
+20 Campbell-Kelly, M., Aspray, W., Snowman, D. P., McKay, S. R., & Christian, W. (1997).
+Computer A history of the information machine. Computers in Physics, 11(3), 256-257.		
+21 Gürer, D. (2002). Pioneering women in computer science. ACM SIGCSE Bulletin, 34(2), 175-	5
+180.
+22 Saunders, D., & Thagard, P. (2005). Creativity in computer science. Creativity across domains: Faces of the muse, 153-167.
+
+and whether Atanasoff, Mauchly, or Eckert should be credited as the inventors of the electrical digital computer has been the subject of legal disputes and ongoing historical discussion.
+The ENIAC was completed in 1946 at the Moore School at the University of Pennsylvania. Mauchly, Eckert, and John von Neumann (1903-1957) began designing the EDVAC (Electronic Discrete Variable Automatic Computer), a stored-program electronic computer, in 1944. "First Draft of a Report on the EDVAC," by Von Neumann, was highly significant and contains many of the ideas that are still employed in most current digital computers, including a mergesort algorithm. UNIVAC (Universal Automatic Computer) was built by Eckert and Mauchly. Meanwhile, in 1941, Konrad Zuse (1910-1995) in Germany created the Z3, the first functioning, general-purpose, program-controlled calculator. Here's where you can learn more about Zuse.23
+
+Vannevar Bush wrote an eerily prescient piece for the Atlantic Monthly in 1945 about how information processing might affect future society. (Another version of the Bush article can be seen here.) The EDSAC, a computer-based on the EDVAC, was constructed by Maurice Wilkes (b. 1913) in Cambridge, England.24 The Manchester Mark I was created by F. C. Williams (b. 1911) and colleagues at Manchester University, and one prototype was operational as early as June 1948. This computer is frequently referred to as the first digital computer with stored programs.25
+
+In 1947, John Bardeen (1908-1991), Walter Brattain (1902-1987), and William Shockley (1910- 1989) invented the transistor, which revolutionized computing and paved the way for the microprocessor revolution. They were awarded the Nobel Prize in Physics in 1956 for this discovery. (Shockley was later known for his racist beliefs.)26 Magnetic core memory was invented by Jay Forrester (b. 1918) in 1949. Here's where you can learn more about Forrester.
+
+The history of computer science in the 1950s: In 1951, Grace Murray Hopper (1906-1992) of Remington Rand established the concept of a compiler. Hopper had discovered the first computer "bug" a real one in 1947 when he discovered a moth that had gotten into the Harvard Mark II. (In fact, the term "bug" has been used to describe a problem since at least 1889.) In April 1957, John Backus and coworkers created the first FORTRAN compiler. John McCarthy designed LISP, a list-processing language for artificial intelligence programming, in 1958. Algol was created by Alan Perlis, John Backus, Peter Naur, and others.
+
+In 1959, Texas Instruments' Jack Kilby and Fairchild Semiconductor's Robert Noyce devised the integrated circuit. As a demonstration of the ARMAC computer in 1956, Edsger Dijkstra devised an efficient method for shortest paths in graphs. He also devised a fast algorithm for computing the minimal spanning tree to reduce the amount of wire required for the X1 computer. (Dijkstra is
+
+23 Brookshear, J. G. (1991). Computer science: an overview. Benjamin-Cummings Publishing Co., Inc..
+24 Hazzan, O., Lapidot, T., & Ragonis, N. (2014). Guide to teaching computer science. Springer.
+25 Wildes, K. L., Lindgren, N. A., & Lindgren, N. (1985). A century of electrical engineering and computer science at MIT, 1882-1982. MIT Press.
+26 Buck, D., & Stucki, D. J. (2001, February). JKarelRobot: a case study in supporting levels of cognitive development in the computer science curriculum. In Proceedings of the thirty-second	6
+SIGCSE technical symposium on Computer Science Education (pp. 16-20).
+
+well-known for his scathing memos.) See, for example, his views on various programming languages).27 Alan Turing presented the Turing Test, one of the first attempts in the field of artificial intelligence, is a renowned paper published in the journal Mind in 1950. He offered a game to define "thinking" or "consciousness"28: a tester would have to determine if the creature in the adjacent room responding to the tester's queries was a human or a computer-based on the textual discussion. If this distinction could not be made, the computer could be considered to be "thinking." Alan Turing was imprisoned for "gross indecency" in 1952 after his liaison with Arnold Murray was discovered during a burglary.29 In 1950s England, open homosexuality was frowned upon, so Turing was forced to undergo estrogen "treatments" that made him impotent and caused him to develop breasts. Turing committed suicide by eating a cyanide-laced apple on June 7, 1954, when he was depressed about his condition.
+
+The 1960s and a Long History: In the 1960s, computer science emerged as a distinct discipline. George Forsythe, a numerical analyst, invented the word. Purdue University established the first computer science department in 1962.30 In December 1965, Richard Wexelblat of the University of Pennsylvania became the first person to get a Ph. D. from a computer science department.
+Major advancements were made in operating systems. IBM's Fred Brooks designed System/360, a series of computers with the same architecture and instruction set, ranging from modest machines to high-end machines.31 The multi programming system was invented by Edsger Dijkstra in Eindhoven. ARPAnet, a forerunner to today's Internet, began construction around the end of the decade. Many new programming languages were created, including BASIC (created by John Kemeny (1926-1992) and Thomas Kurtz (b. 1928) in the early 1960s). The 1960s also witnessed the emergence of automata theory and formal language theory. Noam Chomsky and Michael Rabin are two of the most well-known figures in this field. Chomsky later rose to prominence as a critic of American foreign policy and for his notion that language is "hard-wired" in human brains.
+
+In this decade, formal methods for proving the correctness of programs became more essential. Tony Hoare's contributions were critical.32 Quicksort was also created by Hoare. In 1968, at SRI, Douglas C. Engelbart invents the computer mouse. In 1969-1971, Ted Hoff (b. 1937) and Federico Faggin of Intel created the first microprocessor (computer on a chip). Donald Knuth (b. 1938),
+
+27 Hartmanis, J. (1993, December). Some observations about the nature of computer science. In International Conference on Foundations of Software Technology and Theoretical Computer Science (pp. 1-12). Springer, Berlin, Heidelberg.
+28 Barker, L. J., McDowell, C., & Kalahar, K. (2009). Exploring factors that influence computer science introductory course students to persist in the major. ACM Sigcse Bulletin, 41(1), 153-157.
+29 Gusfield, D. (1997). Algorithms on stings, trees, and sequences: Computer science and computational biology. Acm Sigact News, 28(4), 41-60.
+30 Freedson, P. S., Melanson, E., & Sirard, J. (1998). Calibration of the computer science and applications, inc. accelerometer. Medicine and science in sports and exercise, 30(5), 777-781.		
+31 Dodig-Crnkovic, G. (2002, April). Scientific methods in computer science. In Proceedings of    7
+the Conference for the Promotion of Research in IT at New Universities and at University Colleges
+in Sweden, Skövde, Suecia (pp. 126-130).
+32 Li, C., Dong, Z., Untch, R. H., & Chasteen, M. (2013). Engaging computer science students through gamification in an online social network based collaborative learning environment. International Journal of Information and Education Technology, 3(1), 72.
+
+author of the three-volume classic The Art of Computer Programming, established a strong mathematical foundation for the analysis of algorithms.
+The 1970s and their historical context: With Edgar F. Codd's work on relational databases, database theory advanced significantly. In 1981, Codd received the Turing Award. Ken Thompson (b. 1943) and Dennis Ritchie developed Unix, a widely used operating system, at Bell Laboratories (b. 1941). Brian Kernighan and Ritchie collaborated on the development of C, a widely-used programming language. Other programming languages emerged, including Pascal (designed by Niklaus Wirth) and Ada (created by a team led by Jean Ichbiah).33
+
+John Cocke started working on the first RISC architecture in 1975 at IBM's Thomas J. Watson Laboratories. Around the same time, similar projects began at Berkeley and Stanford. The rise of the supercomputer occurred in the 1970s. The CRAY-1 was designed by Seymour Cray (b. 1925) and was shipped in March 1976. It can conduct 160 million operations per second. In 1982, the Cray XMP was released. Silicon Graphics has acquired Cray Research. 34Algorithms and computing complexity have also progressed greatly. Soon after Steve Cook's seminal publication on NP-completeness in 1971, Richard Karp established that many natural combinatorial problems are NP-complete. Whit Diffie and Martin Hellman proposed the concept of public-key cryptography in a paper,35 and Ronald Rivest, Adi Shamir, and Leonard Adleman built the RSA public-key cryptosystem. After constructing a distributed news server, three graduate students in North Carolina founded Usenet in 1979.36
+
+The 1980s and the twenty-first century: Thanks to Steve Wozniak and Steve Jobs, the creators of Apple Computer, the personal computer rose to prominence during this decade. Around 1981, the first computer viruses are created. Leonard Adleman, currently at the University of Southern California, invented the word. The Osborne I, the first truly successful portable computer, was released in 1981. Apple released the Macintosh computer in 1984. NSFnet, a forerunner to today's Internet, was launched by the US National Science Foundation in 1987.37
+
+
+
+
+
+
+33 Freedson, P. S., Melanson, E., & Sirard, J. (1998). Calibration of the computer science and applications, inc. accelerometer. Medicine and science in sports and exercise, 30(5), 777-781.
+34 Schneider, G. M., & Gersting, J. (2018). Invitation to computer science. Cengage Learning.
+35 Repenning, A., Webb, D. C., Koh, K. H., Nickerson, H., Miller, S. B., Brand, C., ... & Repenning, N. (2015). Scalable game design: A strategy to bring systemic computer science education to schools through game design and simulation creation. ACM Transactions on Computing Education (TOCE), 15(2), 1-31.
+36 Anderson, R., Anderson, R., Simon, B., Wolfman, S. A., VanDeGrift, T., & Yasuhara, K. (2004,  
+March). Experiences with a tablet PC based lecture presentation system in computer science	8
+courses. In Proceedings of the 35th SIGCSE technical symposium on Computer science
+education (pp. 56-60).
+37 Biggers, M., Brauer, A., & Yilmaz, T. (2008). Student perceptions of computer science: a retention study comparing graduating seniors with cs leavers. Acm sigcse bulletin, 40(1), 402-406.
+
+Parallel computers are still being developed throughout the 1990s and beyond. With Len Adleman's recent work on computing via DNA, biological computing has a lot of promise.38 The Human Genome Project aims to sequence all of a person's DNA in one go. The discovery by Peter Shor that integer factorization may be performed efficiently on a (theoretical) quantum computer gives quantum computing a boost.39 The "Information Superhighway" connects an increasing number of computers around the world. Computers get smaller and smaller; the birth of nanotechnology.40
+
+
+Concluding Remark: One of the most significant developments of the twentieth century was the electronic computer. The computer, and the information and communication technology built on it, have altered business, society, government, and science, and have impacted practically every area of our life, just as the industrial revolution did in the nineteenth century. The fundamental principles and procedures employed in the development of computer sciences are detailed in this literature, which introduces the discipline of computing.41 Getting into a new field like computing is like going to work in a foreign country for the first time. While all countries have some fundamental characteristics, such as the need for language and cultural and trade proclivities, the vast variances in these characteristics from one country to the next can be confusing and even debilitating for newcomers. Furthermore, describing the characteristics of a country in any definitive way is difficult because they vary from place to place and change over time. Similarly, entering the world of computers can be unsettling, and defining its characteristics can be challenging. This Research Paper defines the term "computer science," explores the terms "primary" and "contemporary" history, and closes with an overview of the evolution of a field known as "computer science."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38 Cooper, L., & Cooper, M. W. (2016). Introduction to Dynamic Programming: International Series in Modern Applied Mathematics and Computer Science, Volume 1 (Vol. 1). Elsevier.
+39 Morze, N., Barna, O., Kuzminska, O., & Vember, V. (2015). IN WHAT WAY SHOULD MODERN COMPUTER SCIENCE TEACHERS IMPROVE THEIR TEACHING SKILLS TO
+DEVELOP STUDENTS'KEY AND IC COMPETENCE?. ?????????? ??????? ?????? ??????? "???????? ??????? ?-?????????? ????????? ????????????", (1), 189-200.
+40 Bell, T., Rosamond, F., & Casey, N. (2012). Computer science unplugged and related projects
+in math and computer science popularization. In The multivariate algorithmic revolution and	9
+beyond (pp. 398-456). Springer, Berlin, Heidelberg.
+41 Sharma, S. (2002). Modern Methods of Teaching Computer Science. Sarup & Sons.
+
+
